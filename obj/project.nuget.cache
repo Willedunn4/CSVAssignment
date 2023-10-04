@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5hagPBEN0qdXlzYoXPEaUTLot5NCWi9mL/XurVfTEAlrWFwg8kw17HtVwSE+5DDiDcG05NnuzJiBHYBczU1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wille\\source\\repos\\CSVAssignment\\CSVAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wille\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
